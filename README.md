@@ -36,7 +36,6 @@ TFM/
 | `00_Estudio_parametros_ARIMA.ipynb` | Explora parámetros (p, d, q) con gráficos y métricas: AIC, BIC y test de Ljung-Box en un ETF representativo |
 | `Modelo_diario/01_datos_series_temporales_grupal_diario.ipynb` | ARIMA walk-forward en todos los ETFs a escala diaria |
 | `Modelo_semanal/01_datos_series_temporales_grupal_semanal.ipynb` | ARIMA walk-forward a escala semanal |
-| `Modelo_semanal/01_datos_series_temporales_grupal_semanal.ipynb` | ARIMA walk-forward a escala semanal |
 
 ---
 
@@ -56,7 +55,7 @@ TFM/
 
 | Notebook | Qué hace |
 |----------|----------|
-| `01_backtest_markowitz_sin_filtrar_ARIMA.ipynb` | Cartera Markowitz semanal con predicciones ARIMA |
+| `01_backtest_markowitz_ARIMA.ipynb` | Cartera Markowitz semanal con predicciones ARIMA |
 
 
 ---
