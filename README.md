@@ -1,4 +1,4 @@
-# TFM — POPTIMIZACIÓN DE CARTERAS BASADA EN LA PREDICCIÓN DE RETORNOS MEDIANTE MODELOS DE SERIES TEMPORALES Y APRENDIZAJE AUTOMÁTICO - Alejandra Llord
+# OPTIMIZACIÓN DE CARTERAS BASADA EN LA PREDICCIÓN DE RETORNOS MEDIANTE MODELOS DE SERIES TEMPORALES Y APRENDIZAJE AUTOMÁTICO - Alejandra Llord
 
 El objetivo es estudiar y comparar modelos de series temporales y de aprendizaje automático para predecir los retornos diarios y semanales de un conjunto de fondos cotizados (ETFs). Posteriormente, estas predicciones se utilizan para construir una cartera optimizada según el modelo de Markowitz.
 
